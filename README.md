@@ -91,4 +91,11 @@ event_horizo
 
 ---
 
-License: EventHorizon Protective License (see LICENSE file)
+## License
+
+EventHorizon is released under the **EventHorizon Protective License**.  
+See the `LICENSE` file for full details.
+
+This license grants permission to use, copy, modify, and distribute EventHorizon 
+while clearly stating that the author is not responsible for any consequences 
+arising from its use.
