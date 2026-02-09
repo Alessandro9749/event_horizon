@@ -104,3 +104,4 @@ event_horizon
 
 ---
 
+License: EventHorizon Protective License (see LICENSE file)
