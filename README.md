@@ -2,25 +2,23 @@
 
 # EventHorizon
 
-EventHorizon is a universal archive extractor for Termux (Android).  
-It can handle a wide variety of archive formats and works both as a standalone script or installed in your PATH.
-
----
+EventHorizon is a universal archive extractor for Termux and Linux (Debian/Ubuntu).  
+It supports multiple archive formats and can be used either as a standalone script or installed in your PATH.
 
 ## Features
-- Supports multiple archive formats (zip, rar, tar.*, 7z, wim, lz4, gzip, bzip2, xz, zstd, etc.)
-- Works on Termux with official packages
-- Can check all archives in a folder or accept direct file paths
-- Automatically checks for missing dependencies and offers to install them
-- Standalone or installable in PATH for convenience
 
----
+- Supports zip, rar, tar.*, 7z, wim, lz4, gzip, bzip2, xz, zstd, and more
+- Works on Termux with official packages and on Debian/Ubuntu
+- Automatically checks for missing dependencies and prompts to install them
+- Can be used standalone or installed in your PATH for convenience
 
 ## Dependencies
 
-EventHorizon relies on external Termux packages to handle different archive formats.  
-The script automatically checks for missing dependencies and can install them using Termux's package manager (`pkg`).  
-The user is responsible for approving the installation of any required packages.
+EventHorizon relies on external packages to handle different archive formats.  
+- On Termux: installed via `pkg`  
+- On Debian/Ubuntu: installed via `apt`  
+
+The user is prompted to approve installation of missing packages.
 
 ---
 
