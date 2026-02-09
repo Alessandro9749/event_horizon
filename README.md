@@ -90,6 +90,11 @@ event_horizo
 3. Paste the path when prompted and press Enter.
 
 ---
+## Bug
+Found a bug or have a suggestion?
+Open an Issue here on GitHub and we’ll check it out! 🚀
+
+---
 
 ## License
 
@@ -99,3 +104,4 @@ See the `LICENSE` file for full details.
 This license grants permission to use, copy, modify, and distribute EventHorizon 
 while clearly stating that the author is not responsible for any consequences 
 arising from its use.
+
