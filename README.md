@@ -25,10 +25,11 @@ The user is prompted to approve installation of missing packages.
 ## Installation
 
 ### Standalone usage
-1. Clone EventHorizon:
+1. Clone EventHorizon and enter the folder:
 
 ```bash
 git clone --depth=1 https://github.com/Alessandro9749/event_horizon.git
+cd /event_horizon
 
 ```
 2. Make it executable:
