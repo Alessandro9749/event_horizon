@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-SCRIPT_VERSION="EventHorizon 1.1.2"
+SCRIPT_VERSION="EventHorizon 1.2.1"
 
 # Require bash (associative arrays, [[ ]], etc.)
 if [[ -z "${BASH_VERSION:-}" ]]; then
