@@ -1,12 +1,12 @@
 ---
 
 # EventHorizon
+![Docker Build](https://github.com/Alessandro9749/event_horizon/actions/workflows/docker-build.yml)
+![Docker Publish](https://github.com/Alessandro9749/event_horizon/actions/workflows/docker-publish.yml)
+![Release](https://img.shields.io/github/v/release/Alessandro9749/event_horizon)
 
 EventHorizon is a universal archive extractor for Termux and Linux (Debian/Ubuntu).  
 It supports multiple archive formats and can be used either as a standalone script or installed in your PATH.
-![Docker Build](https://github.com/Alessandro9749/event_horizon/actions/workflows/docker-build.yml/badge.svg)
-![Docker Publish](https://github.com/Alessandro9749/event_horizon/actions/workflows/docker-publish.yml/badge.svg)
-![Release](https://img.shields.io/github/v/release/Alessandro9749/event_horizon)
 
 ## Features
 
