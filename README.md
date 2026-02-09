@@ -26,39 +26,49 @@ The user is responsible for approving the installation of any required packages.
 
 ## Installation
 
-### Usage
+### Standalone usage
 1. Clone EventHorizon:
 
 ```bash
 git clone --depth=1 https://github.com/Alessandro9749/event_horizon.git
+
 ```
 2. Make it executable:
 
 
 ```bash
 chmod 755 event_horizon.sh
+
 ```
 3. Run it:
 
 
 ```bash
 ./event_horizon.sh
+
 ```
 or
 ```bash
 bash event_horizon.sh
 ```
-Optional: Install in PATH for easy access
+### Install in PATH for easy access (recommended)
 
-1. Clone the git as in the standalone usage and make the PATH version executable:
+1. Clone the git as in the standalone one and make it executable:
+```bash
+git clone --depth=1 https://github.com/Alessandro9749/event_horizon.git
+chmod 755 event_horizon.sh
 
-2. Move it to $PREFIX/bin:
+```
+
+3. Move it to $PREFIX/bin:
 ```bash
 mv event_horizon.sh $PREFIX/bin/event_horizon
+
 ```
 3. Now you can run it from anywhere:
 ```bash
 event_horizon
+
 ```
 ---
 
@@ -67,10 +77,12 @@ Usage Examples
 1. Move event_horizon.sh to the folder containing the archive:
 ```bash
 mv event_horizon.sh /path/to/folder/
+
 ```
 2. Run the script:
 ```bash
 ./event_horizon.sh
+
 ```
 or
 
@@ -80,6 +92,7 @@ or
 2. Run EventHorizon:
 ```bash
 event_horizon
+
 ```
 3. Paste the path when prompted and press Enter.
 
