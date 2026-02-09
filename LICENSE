@@ -1,21 +1,39 @@
-MIT License
+EventHorizon Protective License
 
-Copyright (c) 2026 Alessandro9749
+Copyright (c) 2026 Alessandro Piccinno
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software, EventHorizon, and its associated documentation files (the
+"Software"), to use, copy, modify, merge, publish, and distribute the Software
+for any lawful purpose, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The Software is provided for personal or general-purpose use only. The
+   author does not endorse or support any illegal, unethical, or harmful
+   activities performed using EventHorizon.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. The author shall not be held responsible for any misuse, data loss,
+   system damage, legal issues, or other consequences resulting from the
+   use, modification, or distribution of EventHorizon.
+
+3. EventHorizon is provided "AS IS", without any warranty of any kind,
+   express or implied, including but not limited to the warranties of
+   merchantability, fitness for a particular purpose, or noninfringement.
+
+4. In no event shall the author or copyright holder be liable for any claim,
+   damages, or other liability, whether in an action of contract, tort, or
+   otherwise, arising from, out of, or in connection with EventHorizon or
+   its use.
+
+5. Any redistributed or modified versions of EventHorizon must include this
+   license text and clearly indicate that the original author is not
+   responsible for the modified version.
+
+6. The name "Alessandro Piccinno" or "EventHorizon" may not be used to
+   endorse or promote derived products without explicit written permission.
+
+7. By using, copying, or distributing EventHorizon, you acknowledge that
+   you have read, understood, and agreed to the terms of this license.
+
+8. The user is responsible for installing, running, and managing EventHorizon
+   and any required dependencies on their own system. The author shall not
+   be held responsible for any issues arising from the use of the Software.
