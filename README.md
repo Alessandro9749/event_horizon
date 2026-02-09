@@ -26,7 +26,7 @@ The user is responsible for approving the installation of any required packages.
 
 ## Installation
 
-### Standalone Usage
+### Usage
 1. Clone EventHorizon:
 
 ```bash
@@ -50,15 +50,11 @@ bash event_horizon.sh
 ```
 Optional: Install in PATH for easy access
 
-1. Make the PATH version executable:
-```bash
-chmod 755 event_horizon(path).sh
-```
+1. Clone the git as in the standalone usage and make the PATH version executable:
+
 2. Move it to $PREFIX/bin:
-
-
 ```bash
-mv event_horizon(path).sh $PREFIX/bin/event_horizon
+mv event_horizon.sh $PREFIX/bin/event_horizon
 ```
 3. Now you can run it from anywhere:
 ```bash
@@ -68,8 +64,6 @@ event_horizon
 
 Usage Examples
 
-Standalone
-
 1. Move event_horizon.sh to the folder containing the archive:
 ```bash
 mv event_horizon.sh /path/to/folder/
@@ -78,21 +72,21 @@ mv event_horizon.sh /path/to/folder/
 ```bash
 ./event_horizon.sh
 ```
-PATH Version
+or
 
 1. Copy the full path of the archive you want to decompress.
 
 
 2. Run EventHorizon:
 ```bash
-event_horizo
+event_horizon
 ```
 3. Paste the path when prompted and press Enter.
 
 ---
 ## Bug
 Found a bug or have a suggestion?
-Open an Issue here on GitHub and we’ll check it out! 🚀
+Open an Issue here on GitHub and we’ll check it out! 
 
 ---
 
