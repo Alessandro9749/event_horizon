@@ -7,7 +7,7 @@ It supports multiple archive formats and can be used either as a standalone scri
 
 ## Features
 
-- Supports zip, rar, tar.*, 7z, wim, lz4, gzip, bzip2, xz, zstd, and more
+- Supports zip, rar, tar, 7z, wim, lz4, gzip, bzip2, xz, zstd, and more
 - Works on Termux with official packages and on Debian/Ubuntu
 - Automatically checks for missing dependencies and prompts to install them
 - Can be used standalone or installed in your PATH for convenience
