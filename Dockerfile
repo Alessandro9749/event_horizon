@@ -5,12 +5,22 @@ LABEL description="EventHorizon - Universal archive extractor"
 
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Install only the bare minimum needed to run the script
-RUN apt update && apt install -y \
+# Install all dependencies required by EventHorizon for all supported archive formats
+RUN apt-get update && apt-get install -y --no-install-recommends \
     bash \
     ca-certificates \
-    apt \
-    && rm -rf /var/lib/apt/lists/*
+    file \
+    unzip \
+    p7zip-full \
+    tar \
+    gzip \
+    bzip2 \
+    xz-utils \
+    zstd \
+    lz4 \
+    wimtools \
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean
 
 # Working directory
 WORKDIR /event_horizon
