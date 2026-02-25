@@ -95,7 +95,7 @@ event_horizon
 
 ```
 
-## Arch-based (Arch Linux, Manjaro, EndeavourOS, etc.)
+## Arch-based
 1. Clone the git as in the standalone one and make it executable:
 ```bash
 git clone --depth=1 https://github.com/Alessandro9749/event_horizon.git
