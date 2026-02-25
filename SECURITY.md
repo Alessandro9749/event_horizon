@@ -12,7 +12,7 @@ Older versions may contain unpatched issues and are not actively maintained.
 EventHorizon is supported on:
 - Termux (Android)
 - Debian/Ubuntu (apt-based)
-- Arch-based distros (pacman-based): Arch Linux, Manjaro, EndeavourOS, etc.
+- Arch-based distros (pacman-based)
 
 ## Reporting a Vulnerability
 
